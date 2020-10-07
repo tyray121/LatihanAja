@@ -1,0 +1,2 @@
+# LatihanAja
+buat latihan random
